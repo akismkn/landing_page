@@ -1,0 +1,59 @@
+* {
+    margin: 0;d
+    padding: 0;
+}
+
+.section--1 {
+    padding: 15px 170px 70px;
+    background-color: aqua;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-menu {
+    list-style: none;
+    display: flex;
+    gap: 32px;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+}
+
+.info {
+    display: flex;
+    gap: 18px;
+}
+
+.left-info {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    flex: 1;
+}
+
+.right-info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+    flex: 1;
+    color: white;
+    border-radius: 8px;
+}
+
+.info-button {
+    background-color: blue;
+    color: white;
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 15px;
+    width: 100px;
+    height: 30px;
+}
+
