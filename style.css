@@ -68,7 +68,7 @@
     padding-bottom: 50px;;
 }
 
-.container {
+.info-container {
     display: flex;
     justify-content: center;
     text-align: center;
@@ -112,3 +112,46 @@
     font-weight: bolder;
     font-family: 'Roboto', sans-serif;
 }
+
+/* SECTION 4 */
+
+.registration {
+    padding: 120px 200px;
+}
+
+.reg-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3882f6;
+    padding: 40px 120px;
+    border-radius: 8px;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.reg-button {
+    outline: 1px solid white;
+    background-color: #3882f6;
+    color: white;
+    border-radius: 5px;
+    width: 100px;
+    height: 25px;
+}
+
+.reg-h3, .reg-p {
+    color: white;
+}
+
+/* SECTION 5 - FOOTER */
+
+.footer {
+    background-color: #1f2937;
+    padding: 40px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.copyright {
+    color: white;
+    font-size: 20px;
