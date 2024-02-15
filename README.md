@@ -5,4 +5,4 @@ Demonstrated skills:
 HTML
 CSS (Flexbox)
 
-Live Demo: to be added soon!
+Live Demo: https://akismkn.github.io/landing_page
