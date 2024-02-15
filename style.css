@@ -5,7 +5,8 @@
 
 .section--1 {
     padding: 15px 170px 70px;
-    background-color: rgb(209, 83, 199);
+    background-color: #1f2937;
+    color: white;
 }
 
 .nav {
